@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome, I'm Kelly !</title>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        h1 {
+            font-size: 35px;
+            font-weight: 600; /* Semibold */
+        }
+        p {
+            font-size: 30px;
+            font-family: 'Libre Franklin', sans-serif;
+        }
+        .contact {
+            margin-top: 50px;
+        }
+        .contact p {
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Main Title</h1>
+        <p>My main digital portoflio can be access through figma at __</p>
+    </header>
+
+    <div class="contact">
+        <h2>Contact Me</h2>
+        <p>Email: kldicken@uci.edu </p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/kellyd5/ ">Your LinkedIn Profile</a></p>
+    </div>
+
+</body>
+</html>
